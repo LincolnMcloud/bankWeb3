@@ -10,9 +10,11 @@ module.exports = {
       port: 8545,
       network_id: "5777"
     },
-    // test:{
-    //   port: 8545
-    // }
+    test:{
+      host: "127.0.0.1",
+      port: 8545,
+      network_id: "5777"
+    }
   },
   compilers:{
     solc:{
