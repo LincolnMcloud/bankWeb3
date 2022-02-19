@@ -20,3 +20,25 @@
 .App-link {
   color: #09d3ac;
 }
+
+.Body{
+  position: fixed;
+  background-color: #1d2535;
+  height: 100%;
+  width: 100%;
+}
+
+.accountBox{
+  background-color: #09d3ac;
+  width: 75%;
+  /* padding-left: 25%; */
+}
+
+.header {
+  padding-left: 0px;
+  text-align: center;
+}
+.header > h2 {
+  display: inline-block;
+  padding: 10px 20px;
+}

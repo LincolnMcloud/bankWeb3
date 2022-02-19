@@ -37,6 +37,6 @@ contract("Bank", (accounts) =>{
         })
     })
 
-    describe()
+    //describe()
 
 })
